@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+<resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ArticleTooManyTags" xml:space="preserve">
+    <value>Статья не может содержать более {0} тегов.</value>
+  </data>
+  <data name="SkipMustBeNonNegative" xml:space="preserve">
+    <value>skip должен быть неотрицательным.</value>
+  </data>
+  <data name="TakeMustBeBetween1And100" xml:space="preserve">
+    <value>take должен быть от 1 до 100.</value>
+  </data>
+  <data name="TagsCollectionCannotBeNull" xml:space="preserve">
+    <value>Коллекция тегов не может быть null.</value>
+  </data>
+  <data name="TagCannotBeNull" xml:space="preserve">
+    <value>Тег не может быть null.</value>
+  </data>
+  <data name="TagCannotBeEmpty" xml:space="preserve">
+    <value>Тег не может быть пустым.</value>
+  </data>
+  <data name="TagsMustNotContainDuplicates" xml:space="preserve">
+    <value>Теги не должны повторяться.</value>
+  </data>
+  <data name="TagLengthCannotExceed" xml:space="preserve">
+    <value>Длина тега не может превышать {0} символов.</value>
+  </data>
+  <data name="TagsCountCannotExceed" xml:space="preserve">
+    <value>Количество тегов не может превышать {0}.</value>
+  </data>
+  <data name="TitleIsRequired" xml:space="preserve">
+    <value>Поле "Заголовок" обязательно для заполнения.</value>
+  </data>
+  <data name="TitleLengthCannotExceed" xml:space="preserve">
+    <value>Длина заголовка не может превышать {0} символов.</value>
+  </data>
+  <data name="InvalidSectionKeyFormat" xml:space="preserve">
+    <value>Неверный формат sectionKey.</value>
+  </data>
+</root>
