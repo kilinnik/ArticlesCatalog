@@ -17,10 +17,6 @@ docker-compose up --build
 
 API будет доступен по `http://localhost:8080`. Документация Swagger доступна по `http://localhost:8080/swagger` только в режиме `Development`.
 
-```bash
-dotnet test
-```
-
 ## Эндпоинты
 
 | Метод и путь | Описание | Ответ |
